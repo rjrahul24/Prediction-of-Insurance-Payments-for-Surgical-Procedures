@@ -20,3 +20,9 @@ Sponsor/Mentor:
 - Katherine Etter [ketter2@its.jnj.com] : Mentor and Knowledge Expert
 
 
+CAs:
+Xuanyu Li [xl3116@columbia.edu]
+
+Instructor:
+Adam S. Kelleher [ak4063@columbia.edu]
+
