@@ -1,5 +1,10 @@
 # Prediction of Commercial Insurance Payments for Surgical Procedure using DataRobot
 
+## Business Problem:
+* Predict the claim amount for MSA having less than 10 procedures.
+* Validate the results for the DataRobot models developed by the J&J team
+* If possible, improve the model performance from the Baseline DataRobot models.
+* Models and code to be delivered in R.
 
 Authors:
 - Rahulraj Singh (rs4211@columbia.edu) - Team Captain
@@ -13,6 +18,7 @@ Sponsor/Mentor:
 - Cindy Tong [stong2@its.jnj.com] : Project Lead and Domain Expert
 - Ziyu Tan [ztan2@its.jnj.com]: Technical Expert and go-to person for DataRobot
 - Katherine Etter [ketter2@its.jnj.com] : Mentor and Knowledge Expert
+
 
 CAs:
 Xuanyu Li [xl3116@columbia.edu]
