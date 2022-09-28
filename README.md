@@ -13,3 +13,10 @@ Sponsor/Mentor:
 - Cindy Tong [stong2@its.jnj.com] : Project Lead and Domain Expert
 - Ziyu Tan [ztan2@its.jnj.com]: Technical Expert and go-to person for DataRobot
 - Katherine Etter [ketter2@its.jnj.com] : Mentor and Knowledge Expert
+
+CAs:
+Xuanyu Li [xl3116@columbia.edu]
+
+Instructor:
+Adam S. Kelleher [ak4063@columbia.edu]
+
