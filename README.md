@@ -19,7 +19,7 @@
 ![alt text](docs/images/structure.png)
 
 ## Documentation
-[Technical Report]([docs/J&J_Tong_ Insurance_Prediction_Final_Report.pdf](https://github.com/rjrahul24/Prediction-of-Insurance-Payments-for-Surgical-Procedures/blob/rahul-feature-branch/docs/J%26J_Tong_%20Insurance_Prediction_1st_report.docx.pdf))
+([Technical Report](https://github.com/rjrahul24/Prediction-of-Insurance-Payments-for-Surgical-Procedures/blob/rahul-feature-branch/docs/J%26J_Tong_%20Insurance_Prediction_1st_report.docx.pdf))
 
 
 ## Credits
