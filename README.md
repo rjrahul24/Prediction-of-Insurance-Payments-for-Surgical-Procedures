@@ -19,7 +19,7 @@
 ![alt text](docs/images/structure.png)
 
 ## Documentation
-[Technical Report](docs/J&J_Tong_ Insurance_Prediction_Final_Report.pdf)
+![Technical Report](docs/J&J_Tong_ Insurance_Prediction_Final_Report.pdf)
 
 
 ## Credits
