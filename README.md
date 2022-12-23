@@ -33,9 +33,9 @@
 
 
 ### Sponsors/Mentors (J&J Team)
-- Cindy Tong - Project Lead and Domain Expert [`stong2@its.jnj.com`]
-- Ziyu Tan - Technical Expert and go-to person for DataRobot [`ztan2@its.jnj.com`]
-- Katherine Etter - Mentor and Knowledge Expert  [`ketter2@its.jnj.com`]
+- Cindy Tong - Project Lead and Domain Expert
+- Ziyu Tan - Technical Expert and go-to person for DataRobot
+- Katherine Etter - Mentor and Knowledge Expert 
 
 
 ### Instructor
