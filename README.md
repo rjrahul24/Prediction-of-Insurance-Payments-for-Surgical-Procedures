@@ -21,6 +21,11 @@
 ## Documentation
 [Technical Report](https://github.com/rjrahul24/Prediction-of-Insurance-Payments-for-Surgical-Procedures/blob/rahul-feature-branch/docs/J%26J_Tong_%20Insurance_Prediction_1st_report.docx.pdf)
 
+## Instructions for Project Setup
+Please run the following jupyter notebooks in sequence:
+1. Run the `notebooks/data_preprocessing_step1.ipynb` notebook responsible for transforming raw datasets into a preprocessed dataset.
+2. Afterwards, run `notebooks/clustering_step2.ipynb` to generate clustered data for cost discharge dataset.
+3. Run `notebooks/data_modelling_and_evaluation_step3.ipynb` responsible for performing data modelling and model evaluation. Please ensure that output of Step 1 and Step 2 has been generated before running Step 3.
 
 ## Credits
 
