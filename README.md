@@ -23,9 +23,9 @@
 
 ## Instructions for Project Setup
 Please run the following jupyter notebooks in sequence:
-1. Run the `notebooks/data_preprocessing_step1.ipynb` notebook responsible for transforming raw datasets into a preprocessed dataset.
-2. Afterwards, run `notebooks/clustering_step2.ipynb` to generate clustered data for cost discharge dataset.
-3. Run `notebooks/data_modelling_and_evaluation_step3.ipynb` responsible for performing data modelling and model evaluation. Please ensure that output of Step 1 and Step 2 has been generated before running Step 3.
+1. Run the `Final Code Snippet/Capstone_Step1_Data_Preprocessing.ipynb` notebook responsible for transforming raw datasets into a preprocessed dataset. Please edit the file paths to `data/raw` folder.
+2. Afterwards, run `Final Code Snippet/Capstone_Step2_Data_Modelling.ipynb`responsible for performing data modelling and model evaluation.
+3. Run `Final Code Snippet/Capstone_Step3_XGBoost_Model.ipynb`responsible for XGBoost modelling and enforcing the monotonicity constraints. Please ensure that output of Step 1 and Step 2 has been generated before running Step 3.
 
 ## Credits
 
